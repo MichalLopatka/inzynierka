@@ -1,0 +1,11 @@
+venv/
+.idea/
+__pycache__/
+datasets/
+stuttgart/
+venv/
+.ipynb_checkpoints/
+.git/
+output/
+own/
+dropped/
